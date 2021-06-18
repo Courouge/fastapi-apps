@@ -1,0 +1,15 @@
+jinja2
+sqlalchemy
+fastapi
+uvicorn
+python-multipart
+python-jose
+jose
+passlib
+bcrypt
+pydantic
+odmantic
+typing_extensions
+beautifulsoup4
+requests
+lxml
